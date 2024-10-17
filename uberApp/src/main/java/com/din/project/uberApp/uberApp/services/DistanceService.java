@@ -1,4 +1,8 @@
 package com.din.project.uberApp.uberApp.services;
 
-public class DistanceService {
+import org.locationtech.jts.geom.Point;
+
+public interface DistanceService {
+
+    double calculateDistance(Point src, Point dest);
 }
