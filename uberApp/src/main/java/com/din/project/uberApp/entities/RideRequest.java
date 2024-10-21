@@ -19,11 +19,11 @@ public class RideRequest {
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
 
-    @Column(columnDefinition = "Geometry(Point,4326)")
-    private Point pickupLocation;
-
-    @Column(columnDefinition = "Geometry(Point,4326)")
-    private Point dropoffLocation;
+//    @Column(columnDefinition = "Geometry(Point,4326)")
+//    private Point pickupLocation;
+//
+//    @Column(columnDefinition = "Geometry(Point,4326)")
+//    private Point dropoffLocation;
 
     @CreationTimestamp
     private LocalDateTime createdTime;

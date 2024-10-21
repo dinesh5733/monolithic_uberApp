@@ -5,56 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fc73d67b-9cf1-443c-8594-ee1859992366" name="Changes" comment="Regarding UberApp">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/uberApp/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/uberApp/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/uberApp/src/main/java/com/din/project/uberApp/uberApp/UberAppApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/uberApp/src/main/java/com/din/project/uberApp/UberAppApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/uberApp/src/main/java/com/din/project/uberApp/uberApp/config/MapperConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/uberApp/src/main/java/com/din/project/uberApp/config/MapperConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/uberApp/src/main/java/com/din/project/uberApp/uberApp/dto/DriverDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/uberApp/src/main/java/com/din/project/uberApp/dto/DriverDTO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/uberApp/src/main/java/com/din/project/uberApp/uberApp/dto/RideDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/uberApp/src/main/java/com/din/project/uberApp/dto/RideDTO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/uberApp/src/main/java/com/din/project/uberApp/uberApp/dto/RideRequestDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/uberApp/src/main/java/com/din/project/uberApp/dto/RideRequestDTO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/uberApp/src/main/java/com/din/project/uberApp/uberApp/dto/RiderDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/uberApp/src/main/java/com/din/project/uberApp/dto/RiderDTO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/uberApp/src/main/java/com/din/project/uberApp/uberApp/dto/SignUpDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/uberApp/src/main/java/com/din/project/uberApp/dto/SignUpDTO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/uberApp/src/main/java/com/din/project/uberApp/uberApp/dto/UserDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/uberApp/src/main/java/com/din/project/uberApp/dto/UserDTO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/uberApp/src/main/java/com/din/project/uberApp/uberApp/entities/Driver.java" beforeDir="false" afterPath="$PROJECT_DIR$/uberApp/src/main/java/com/din/project/uberApp/entities/Driver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/uberApp/src/main/java/com/din/project/uberApp/uberApp/entities/Payment.java" beforeDir="false" afterPath="$PROJECT_DIR$/uberApp/src/main/java/com/din/project/uberApp/entities/Payment.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/uberApp/src/main/java/com/din/project/uberApp/uberApp/entities/Ride.java" beforeDir="false" afterPath="$PROJECT_DIR$/uberApp/src/main/java/com/din/project/uberApp/entities/Ride.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/uberApp/src/main/java/com/din/project/uberApp/uberApp/entities/RideRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/uberApp/src/main/java/com/din/project/uberApp/entities/RideRequest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/uberApp/src/main/java/com/din/project/uberApp/uberApp/entities/Rider.java" beforeDir="false" afterPath="$PROJECT_DIR$/uberApp/src/main/java/com/din/project/uberApp/entities/Rider.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/uberApp/src/main/java/com/din/project/uberApp/uberApp/entities/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/uberApp/src/main/java/com/din/project/uberApp/entities/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/uberApp/src/main/java/com/din/project/uberApp/uberApp/entities/Wallet.java" beforeDir="false" afterPath="$PROJECT_DIR$/uberApp/src/main/java/com/din/project/uberApp/entities/Wallet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/uberApp/src/main/java/com/din/project/uberApp/uberApp/entities/WalletTransaction.java" beforeDir="false" afterPath="$PROJECT_DIR$/uberApp/src/main/java/com/din/project/uberApp/entities/WalletTransaction.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/uberApp/src/main/java/com/din/project/uberApp/uberApp/entities/enums/PaymentMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/uberApp/src/main/java/com/din/project/uberApp/entities/enums/PaymentMethod.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/uberApp/src/main/java/com/din/project/uberApp/uberApp/entities/enums/PaymentStatus.java" beforeDir="false" afterPath="$PROJECT_DIR$/uberApp/src/main/java/com/din/project/uberApp/entities/enums/PaymentStatus.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/uberApp/src/main/java/com/din/project/uberApp/uberApp/entities/enums/RideRequestStatus.java" beforeDir="false" afterPath="$PROJECT_DIR$/uberApp/src/main/java/com/din/project/uberApp/entities/enums/RideRequestStatus.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/uberApp/src/main/java/com/din/project/uberApp/uberApp/entities/enums/RideStatus.java" beforeDir="false" afterPath="$PROJECT_DIR$/uberApp/src/main/java/com/din/project/uberApp/entities/enums/RideStatus.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/uberApp/src/main/java/com/din/project/uberApp/uberApp/entities/enums/Role.java" beforeDir="false" afterPath="$PROJECT_DIR$/uberApp/src/main/java/com/din/project/uberApp/entities/enums/Role.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/uberApp/src/main/java/com/din/project/uberApp/uberApp/entities/enums/TransactionMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/uberApp/src/main/java/com/din/project/uberApp/entities/enums/TransactionMethod.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/uberApp/src/main/java/com/din/project/uberApp/uberApp/entities/enums/TransactionType.java" beforeDir="false" afterPath="$PROJECT_DIR$/uberApp/src/main/java/com/din/project/uberApp/entities/enums/TransactionType.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/uberApp/src/main/java/com/din/project/uberApp/uberApp/repositories/DriverRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/uberApp/src/main/java/com/din/project/uberApp/repositories/DriverRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/uberApp/src/main/java/com/din/project/uberApp/uberApp/repositories/RideRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/uberApp/src/main/java/com/din/project/uberApp/repositories/RideRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/uberApp/src/main/java/com/din/project/uberApp/uberApp/repositories/RideRequestRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/uberApp/src/main/java/com/din/project/uberApp/repositories/RideRequestRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/uberApp/src/main/java/com/din/project/uberApp/uberApp/repositories/RiderRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/uberApp/src/main/java/com/din/project/uberApp/repositories/RiderRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/uberApp/src/main/java/com/din/project/uberApp/uberApp/repositories/UserRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/uberApp/src/main/java/com/din/project/uberApp/repositories/UserRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/uberApp/src/main/java/com/din/project/uberApp/uberApp/services/AuthService.java" beforeDir="false" afterPath="$PROJECT_DIR$/uberApp/src/main/java/com/din/project/uberApp/services/AuthService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/uberApp/src/main/java/com/din/project/uberApp/uberApp/services/DistanceService.java" beforeDir="false" afterPath="$PROJECT_DIR$/uberApp/src/main/java/com/din/project/uberApp/services/DistanceService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/uberApp/src/main/java/com/din/project/uberApp/uberApp/services/DriverService.java" beforeDir="false" afterPath="$PROJECT_DIR$/uberApp/src/main/java/com/din/project/uberApp/services/DriverService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/uberApp/src/main/java/com/din/project/uberApp/uberApp/services/Impl/AuthServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/uberApp/src/main/java/com/din/project/uberApp/services/Impl/AuthServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/uberApp/src/main/java/com/din/project/uberApp/uberApp/services/Impl/DistanceServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/uberApp/src/main/java/com/din/project/uberApp/services/Impl/DistanceServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/uberApp/src/main/java/com/din/project/uberApp/uberApp/services/Impl/DriverServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/uberApp/src/main/java/com/din/project/uberApp/services/Impl/DriverServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/uberApp/src/main/java/com/din/project/uberApp/uberApp/services/Impl/RideServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/uberApp/src/main/java/com/din/project/uberApp/services/Impl/RideServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/uberApp/src/main/java/com/din/project/uberApp/uberApp/services/Impl/RiderServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/uberApp/src/main/java/com/din/project/uberApp/services/Impl/RiderServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/uberApp/src/main/java/com/din/project/uberApp/uberApp/services/Impl/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/uberApp/src/main/java/com/din/project/uberApp/services/Impl/UserServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/uberApp/src/main/java/com/din/project/uberApp/uberApp/services/RideService.java" beforeDir="false" afterPath="$PROJECT_DIR$/uberApp/src/main/java/com/din/project/uberApp/services/RideService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/uberApp/src/main/java/com/din/project/uberApp/uberApp/services/RiderService.java" beforeDir="false" afterPath="$PROJECT_DIR$/uberApp/src/main/java/com/din/project/uberApp/services/RiderService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/uberApp/src/main/java/com/din/project/uberApp/uberApp/services/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/uberApp/src/main/java/com/din/project/uberApp/services/UserService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/uberApp/src/main/java/com/din/project/uberApp/uberApp/strategies/DriverMatchingStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/uberApp/src/main/java/com/din/project/uberApp/strategies/DriverMatchingStrategy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/uberApp/src/main/java/com/din/project/uberApp/uberApp/strategies/RideFareCalculationStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/uberApp/src/main/java/com/din/project/uberApp/strategies/RideFareCalculationStrategy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/uberApp/src/main/java/com/din/project/uberApp/uberApp/strategies/impl/DriverMatchingHighestRatedDriverStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/uberApp/src/main/java/com/din/project/uberApp/strategies/impl/DriverMatchingHighestRatedDriverStrategy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/uberApp/src/main/java/com/din/project/uberApp/uberApp/strategies/impl/DriverMatchingNearestDriverStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/uberApp/src/main/java/com/din/project/uberApp/strategies/impl/DriverMatchingNearestDriverStrategy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/uberApp/src/main/java/com/din/project/uberApp/uberApp/strategies/impl/RideFareDefaultFareCalculationStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/uberApp/src/main/java/com/din/project/uberApp/strategies/impl/RideFareDefaultFareCalculationStrategy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/uberApp/src/main/java/com/din/project/uberApp/uberApp/strategies/impl/RideFareSurgePricingFareCalculationStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/uberApp/src/main/java/com/din/project/uberApp/strategies/impl/RideFareSurgePricingFareCalculationStrategy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/uberApp/src/test/java/com/din/project/uberApp/uberApp/UberAppApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/uberApp/src/test/java/com/din/project/uberApp/UberAppApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uberApp/src/main/java/com/din/project/uberApp/UberAppApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/uberApp/src/main/java/com/din/project/uberApp/UberAppApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uberApp/src/main/java/com/din/project/uberApp/controllers/RideController.java" beforeDir="false" afterPath="$PROJECT_DIR$/uberApp/src/main/java/com/din/project/uberApp/controllers/RideController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uberApp/src/main/java/com/din/project/uberApp/dto/RideDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/uberApp/src/main/java/com/din/project/uberApp/dto/RideDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uberApp/src/main/java/com/din/project/uberApp/dto/RideRequestDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/uberApp/src/main/java/com/din/project/uberApp/dto/RideRequestDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uberApp/src/main/java/com/din/project/uberApp/entities/Driver.java" beforeDir="false" afterPath="$PROJECT_DIR$/uberApp/src/main/java/com/din/project/uberApp/entities/Driver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uberApp/src/main/java/com/din/project/uberApp/entities/Ride.java" beforeDir="false" afterPath="$PROJECT_DIR$/uberApp/src/main/java/com/din/project/uberApp/entities/Ride.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uberApp/src/main/java/com/din/project/uberApp/entities/RideRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/uberApp/src/main/java/com/din/project/uberApp/entities/RideRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uberApp/src/main/java/com/din/project/uberApp/services/Impl/RiderServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/uberApp/src/main/java/com/din/project/uberApp/services/Impl/RiderServiceImpl.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,15 +50,17 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.UberAppApplication.executor": "Run",
+    "Application.com.din.project.uberApp.UberAppApplication.executor": "Debug",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "monolithic__uberApp__01",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "D:/Uber-App",
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.com.din.project.uberApp.UberAppApplication">
     <configuration name="UberAppApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.din.project.uberApp.uberApp.UberAppApplication" />
       <module name="uberApp" />
@@ -113,8 +74,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="com.din.project.uberApp.UberAppApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.din.project.uberApp.UberAppApplication" />
+      <module name="uberApp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.din.project.uberApp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.com.din.project.uberApp.UberAppApplication" />
         <item itemvalue="Application.UberAppApplication" />
       </list>
     </recent_temporary>
@@ -157,5 +132,16 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Regarding UberApp" />
     <option name="LAST_COMMIT_MESSAGE" value="Regarding UberApp" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/uberApp/src/main/java/com/din/project/uberApp/services/Impl/RiderServiceImpl.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
