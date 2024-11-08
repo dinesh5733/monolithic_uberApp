@@ -8,6 +8,7 @@ import org.springframework.stereotype.Service;
 import java.util.List;
 @Service
 public class DriverServiceImpl implements DriverService {
+
     @Override
     public RideDTO cancelRide(Long rideId) {
         return null;

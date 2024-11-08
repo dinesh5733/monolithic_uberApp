@@ -8,6 +8,7 @@ import org.springframework.stereotype.Service;
 
 @Service
 public class AuthServiceImpl implements AuthService {
+
     @Override
     public String login(String email, String password) {
 
