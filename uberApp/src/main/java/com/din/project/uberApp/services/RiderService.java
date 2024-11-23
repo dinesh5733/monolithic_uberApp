@@ -3,6 +3,7 @@ package com.din.project.uberApp.services;
 import com.din.project.uberApp.dto.RideRequestDTO;
 import com.din.project.uberApp.dto.RiderDTO;
 import com.din.project.uberApp.dto.RideDTO;
+import com.din.project.uberApp.entities.RideRequest;
 
 import java.util.List;
 
