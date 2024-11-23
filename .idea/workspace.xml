@@ -4,7 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fc73d67b-9cf1-443c-8594-ee1859992366" name="Changes" comment="Regarding UberApp" />
+    <list default="true" id="fc73d67b-9cf1-443c-8594-ee1859992366" name="Changes" comment="Regarding UberApp">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uberApp/src/main/java/com/din/project/uberApp/entities/RideRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/uberApp/src/main/java/com/din/project/uberApp/entities/RideRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uberApp/src/main/java/com/din/project/uberApp/services/Impl/DistanceServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/uberApp/src/main/java/com/din/project/uberApp/services/Impl/DistanceServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uberApp/src/main/java/com/din/project/uberApp/services/Impl/RiderServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/uberApp/src/main/java/com/din/project/uberApp/services/Impl/RiderServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uberApp/src/main/java/com/din/project/uberApp/services/RiderService.java" beforeDir="false" afterPath="$PROJECT_DIR$/uberApp/src/main/java/com/din/project/uberApp/services/RiderService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uberApp/src/main/java/com/din/project/uberApp/strategies/DriverMatchingStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/uberApp/src/main/java/com/din/project/uberApp/strategies/DriverMatchingStrategy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uberApp/src/main/java/com/din/project/uberApp/strategies/RideFareCalculationStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/uberApp/src/main/java/com/din/project/uberApp/strategies/RideFareCalculationStrategy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uberApp/src/main/java/com/din/project/uberApp/strategies/impl/DriverMatchingHighestRatedDriverStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/uberApp/src/main/java/com/din/project/uberApp/strategies/impl/DriverMatchingHighestRatedDriverStrategy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uberApp/src/main/java/com/din/project/uberApp/strategies/impl/DriverMatchingNearestDriverStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/uberApp/src/main/java/com/din/project/uberApp/strategies/impl/DriverMatchingNearestDriverStrategy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uberApp/src/main/java/com/din/project/uberApp/strategies/impl/RideFareDefaultFareCalculationStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/uberApp/src/main/java/com/din/project/uberApp/strategies/impl/RideFareDefaultFareCalculationStrategy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uberApp/src/main/java/com/din/project/uberApp/strategies/impl/RideFareSurgePricingFareCalculationStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/uberApp/src/main/java/com/din/project/uberApp/strategies/impl/RideFareSurgePricingFareCalculationStrategy.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +27,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Enum" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -29,6 +43,9 @@
   &quot;associatedIndex&quot;: 1
 }</component>
   <component name="ProjectId" id="2nT1qa6XsGKKoCW8Qge870Xl6Er" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -36,14 +53,17 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.UberAppApplication.executor": "Run",
+    "Application.com.din.project.uberApp.UberAppApplication.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "monolithic__uberApp__01",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/Uber-App",
+    "last_opened_file_path": "D:/Spring_Practices/Spring Boot Project/Adarsh-gupta-spring-major-starter-main/major/major",
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.com.din.project.uberApp.UberAppApplication">
     <configuration name="UberAppApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.din.project.uberApp.uberApp.UberAppApplication" />
       <module name="uberApp" />
@@ -57,18 +77,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="com.din.project.uberApp.UberAppApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.din.project.uberApp.UberAppApplication" />
+      <module name="uberApp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.din.project.uberApp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.com.din.project.uberApp.UberAppApplication" />
         <item itemvalue="Application.UberAppApplication" />
       </list>
     </recent_temporary>
-  </component>
-  <component name="SharedIndexes">
-    <attachedChunks>
-      <set>
-        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-4f524021" />
-      </set>
-    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -101,5 +128,27 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Regarding UberApp" />
     <option name="LAST_COMMIT_MESSAGE" value="Regarding UberApp" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/uberApp/src/main/java/com/din/project/uberApp/UberAppApplication.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/uberApp/src/main/java/com/din/project/uberApp/services/Impl/RiderServiceImpl.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/uberApp/src/main/java/com/din/project/uberApp/services/Impl/RiderServiceImpl.java</url>
+          <line>23</line>
+          <properties field="modelMapper" class="com.din.project.uberApp.services.Impl.RiderServiceImpl" />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
